@@ -1,0 +1,8 @@
+com\botolashop\medkhair\model\Product.class
+com\botolashop\medkhair\MedkhairApplication.class
+com\botolashop\medkhair\model\Player.class
+com\botolashop\medkhair\repository\ClubRepository.class
+com\botolashop\medkhair\service\ProductService.class
+com\botolashop\medkhair\controller\ProductController.class
+com\botolashop\medkhair\model\Club.class
+com\botolashop\medkhair\repository\ProductRepository.class
